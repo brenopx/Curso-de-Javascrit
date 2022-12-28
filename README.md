@@ -1,1 +1,1 @@
-# Curso-de-Javascrit-e-TypeScrity-do-b-sico-ao-avan-ado
+# Curso de Javascrit e TypeScrity
